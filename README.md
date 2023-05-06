@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- [Google Cybersecurity Professional Certificate Project](https://github.com/TrenTCyber/PROJECTURL)
+- [Google Cybersecurity Professional Certificate Project](https://github.com/TrenTCyber/GoogleProject1)
 
 <h2>📄 Certifications </h2>
 
